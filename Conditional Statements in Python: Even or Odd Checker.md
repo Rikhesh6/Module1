@@ -13,20 +13,15 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
-
 a=int(input())
-if a%2==1:
-    if a>=25:
-        print(f"{a} is an Odd number")
-        print(f"{a} is greater than or equal to 25")
-    else:
-        print(f"{a} is an Odd number")
-        print(f"{a} is lesser than 25")
+if(a%2==0):
+    print("EVEN")
 else:
-    print(f"{a} is NOT an Odd number")
+    print("ODD")
 ```
 ## Output
-<img width="1179" height="326" alt="image" src="https://github.com/user-attachments/assets/aed605c5-6d2c-4398-a8ca-60b5988fc98c" />
+<img width="840" height="234" alt="image" src="https://github.com/user-attachments/assets/0fedd78b-5f84-4a28-9c2c-89d02147af34" />
+
 
 ## Result
-Thus program to check whether the given number is odd or not an odd using nested if..else. statements has been executed successfully.
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
