@@ -29,3 +29,4 @@ else:
 <img width="1179" height="326" alt="image" src="https://github.com/user-attachments/assets/aed605c5-6d2c-4398-a8ca-60b5988fc98c" />
 
 ## Result
+Thus program to check whether the given number is odd or not an odd using nested if..else. statements has been executed successfully.
