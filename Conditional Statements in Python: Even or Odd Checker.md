@@ -12,7 +12,20 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+```
 
+a=int(input())
+if a%2==1:
+    if a>=25:
+        print(f"{a} is an Odd number")
+        print(f"{a} is greater than or equal to 25")
+    else:
+        print(f"{a} is an Odd number")
+        print(f"{a} is lesser than 25")
+else:
+    print(f"{a} is NOT an Odd number")
+```
 ## Output
+<img width="1179" height="326" alt="image" src="https://github.com/user-attachments/assets/aed605c5-6d2c-4398-a8ca-60b5988fc98c" />
 
 ## Result
